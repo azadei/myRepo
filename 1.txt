@@ -1,3 +1,5 @@
-Bu gun hava gozeldi
+Bu gun hava kuleklidir
 
 Sabah pis hava olacag
+
+Dunen hava yagishli idi
